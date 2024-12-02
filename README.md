@@ -1,1 +1,1 @@
-Person Portfolio website
+Personal Portfolio website
