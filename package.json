@@ -9,7 +9,7 @@
     "build:railway": "vite build --mode production",
     "lint": "eslint .",
     "preview": "vite preview",
-    "start": "vite preview"
+    "start": "vite preview --host --port $PORT"
   },
   "dependencies": {
     "lucide-react": "^0.344.0",
